@@ -20,7 +20,7 @@ def run():
     while True:
         print("Enter a and b:\n")
         try:
-            print(gсв(int(input()), int(input())))
+            print(gcd(int(input()), int(input())))
         except ValueError:
             print("please, enter only numbers =(")
 
