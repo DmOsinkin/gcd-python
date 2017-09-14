@@ -2,7 +2,7 @@
 Find the greatest common divisor with my
 uglycode (aka govnocode for russians), muhaha.
 
-Just run this cod in shell!
+Just run this code in shell!
 
 Author: Osinkin Dmitry, dm.osinkin@gmail.com
 """
